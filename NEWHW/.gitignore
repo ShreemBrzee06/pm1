@@ -1,0 +1,29 @@
+### IntelliJ IDEA ###
+out/
+!src/JavaNHW/main/**/out/
+!src/JavaNHW/test/**/out/
+
+### Eclipse ###
+.apt_generated
+.classpath
+.factorypath
+.project
+.settings
+.springBeans
+.sts4-cache
+bin/
+!src/JavaNHW/main/**/bin/
+!src/JavaNHW/test/**/bin/
+
+### NetBeans ###
+/nbproject/private/
+/nbbuild/
+/dist/
+/nbdist/
+/.nb-gradle/
+
+### VS Code ###
+.vscode/
+
+### Mac OS ###
+.DS_Store
